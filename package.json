@@ -1,0 +1,25 @@
+{
+  "name": "docker-ci-aws",
+  "version": "1.0.0",
+  "description": "Sample DevOps using NodeJs,Docker,CircleCI and AWS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diptiAzure/docker-CI-AWS.git"
+  },
+  "author": "Dipti Ranjan Sethi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diptiAzure/docker-CI-AWS/issues"
+  },
+  "homepage": "https://github.com/diptiAzure/docker-CI-AWS#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "mocha": "^3.4.2",
+    "supertest": "^3.0.0"
+  }
+}
